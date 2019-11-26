@@ -1,0 +1,1100 @@
+@import url('https://fonts.googleapis.com/css?family=Karla:400|Acme:400|Gloria+Hallelujah:400');
+
+@font-face {
+                          font-family: "IBMPlexSans";
+                          src: url('../fonts/IBMPlexSans-Regular.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "OpenSans-Regular";
+                          src: url('../fonts/OpenSans-Regular.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "OpenSans-SemiBold";
+                          src: url('../fonts/OpenSans-SemiBold.ttf') format("truetype");
+                        }
+                        
+.bp2-mobilepageprogrammes {
+  width               : 100%;
+  min-width           : 320px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-mobilepageprogrammes .bp2-nathandumlaoxphmmvks8lmunsplash {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 1024px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepageprogrammes .bp2-nathandumlaoxphmmvks8lmunsplash .bp2-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 1024px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepageprogrammes .bp2-nathandumlaoxphmmvks8lmunsplash .bp2-nathandumlaoxphmmvks8lmunsplash1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -30px;
+  height              : 1054px;
+  width               : 703px;
+  position            : absolute;
+  margin              : 0;
+  left                : -249px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepageprogrammes .bp2-ayeduheaderlogo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 75px;
+  width               : 104px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepageprogrammes .bp2-ayeduheaderlogo .bp2-ayedu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Gloria Hallelujah", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(52, 49, 49, 1.0);
+  text-align          : left;
+  line-height         : 68.0px;
+}
+.bp2-mobilepageprogrammes .bp2-ayeduheaderlogo .bp2-est2019 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 36px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.81;
+  font-family         : "IBMPlexSans", Helvetica, Arial, serif;
+  font-size           : 23.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.bp2-mobilepageprogrammes .bp2-ayeduheaderlogo .bp2-est2019 .bp2-span1 {
+  line-height         : 30.0px;
+}
+.bp2-mobilepageprogrammes .bp2-ayeduheaderlogo .bp2-est2019 .bp2-span2 {
+  font-size           : 30.0px;
+  line-height         : 39.0px;
+}
+.bp2-mobilepageprogrammes .bp2-ayeduheaderlogo .bp2-est2019 .bp2-span3 {
+  font-size           : 16.0px;
+  line-height         : 20.0px;
+}
+.bp2-mobilepageprogrammes .bp2-a56763 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 35px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 265px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepageprogrammes .bp2-socialiconscopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 991px;
+  height              : 22px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 87px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepageprogrammes .bp2-socialiconscopy2 .bp2-facebook {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepageprogrammes .bp2-socialiconscopy2 .bp2-youtube {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepageprogrammes .bp2-socialiconscopy2 .bp2-instagram {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepageprogrammes .bp2-socialiconscopy2 .bp2-twitter {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepageprogrammes .bp2-socialiconscopy2 .bp2-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 95px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepageprogrammes .bp2-rectanglecopy8 {
+  background-color    : rgba(184, 161, 138, 1.0);
+  top                 : 104px;
+  height              : 875px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.85;
+}
+.bp2-mobilepageprogrammes .bp2-rectanglecopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 498px;
+  height              : 148px;
+  width               : 148px;
+  position            : absolute;
+  margin              : 0;
+  left                : 87px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.85;
+  transition          : all 0.2s ease-in-out;
+}
+.bp2-mobilepageprogrammes .bp2-rectanglecopy4:hover {
+  box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.bp2-mobilepageprogrammes .bp2-rectanglecopy7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 350px;
+  height              : 148px;
+  width               : 148px;
+  position            : absolute;
+  margin              : 0;
+  left                : 86px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.85;
+  transition          : all 0.2s ease-in-out;
+}
+.bp2-mobilepageprogrammes .bp2-rectanglecopy7:hover {
+  box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.bp2-mobilepageprogrammes .bp2-rectanglecopy9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 202px;
+  height              : 148px;
+  width               : 148px;
+  position            : absolute;
+  margin              : 0;
+  left                : 86px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.85;
+  transition          : all 0.2s ease-in-out;
+}
+.bp2-mobilepageprogrammes .bp2-rectanglecopy9:hover {
+  box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.bp2-mobilepageprogrammes .bp2-rectanglecopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 646px;
+  height              : 148px;
+  width               : 148px;
+  position            : absolute;
+  margin              : 0;
+  left                : 87px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.85;
+  transition          : all 0.2s ease-in-out;
+}
+.bp2-mobilepageprogrammes .bp2-rectanglecopy5:hover {
+  box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.bp2-mobilepageprogrammes .bp2-rectanglecopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 794px;
+  height              : 148px;
+  width               : 148px;
+  position            : absolute;
+  margin              : 0;
+  left                : 87px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.85;
+  transition          : all 0.2s ease-in-out;
+}
+.bp2-mobilepageprogrammes .bp2-rectanglecopy6:hover {
+  box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.bp2-mobilepageprogrammes .bp2-programmes {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 109px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Acme", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 42.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 53.0px;
+}
+.bp2-mobilepageprogrammes .bp2-a8820 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 936px;
+  height              : 32px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 144px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.bp2-mobilepageprogrammes .bp2-a8820:hover {
+  filter              : blur(10px);
+}
+.bp2-mobilepageprogrammes .bp2-a103461copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 222px;
+  height              : 90px;
+  width               : 90px;
+  position            : absolute;
+  margin              : 0;
+  left                : 115px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepageprogrammes .bp2-a33736copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 372px;
+  height              : 90px;
+  width               : 90px;
+  position            : absolute;
+  margin              : 0;
+  left                : 115px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepageprogrammes .bp2-a88328copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 522px;
+  height              : 90px;
+  width               : 90px;
+  position            : absolute;
+  margin              : 0;
+  left                : 115px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepageprogrammes .bp2-a69045copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 668px;
+  height              : 90px;
+  width               : 90px;
+  position            : absolute;
+  margin              : 0;
+  left                : 115px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepageprogrammes .bp2-a59174copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 814px;
+  height              : 90px;
+  width               : 90px;
+  position            : absolute;
+  margin              : 0;
+  left                : 115px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp1-webpageprogrammes {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1108px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-webpageprogrammes .bp1-photo151938995047347ba0277781c {
+  background-color    : rgba(183, 165, 145, 1.0);
+  top                 : 0px;
+  height              : 1108px;
+  width               : 1458px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpageprogrammes .bp1-photo151938995047347ba0277781c .bp1-mask {
+  background-color    : rgba(183, 165, 145, 1.0);
+  top                 : 0px;
+  height              : 1108px;
+  width               : 1458px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpageprogrammes .bp1-photo151938995047347ba0277781c .bp1-photo151938995047347ba0277781c1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -22px;
+  height              : 1151px;
+  width               : 1727px;
+  position            : absolute;
+  margin              : 0;
+  left                : -33px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.68;
+}
+.bp1-webpageprogrammes .bp1-rectanglecopy7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -6px;
+  height              : 111px;
+  width               : 1464px;
+  position            : absolute;
+  margin              : 0;
+  left                : -12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpageprogrammes .bp1-headercopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 75px;
+  width               : 1246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 97px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpageprogrammes .bp1-headercopy2 .bp1-ayeduheaderlogocopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 75px;
+  width               : 104px;
+  position            : absolute;
+  margin              : 0;
+  left                : 551px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpageprogrammes .bp1-headercopy2 .bp1-ayeduheaderlogocopy .bp1-ayedu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Gloria Hallelujah", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(52, 49, 49, 1.0);
+  text-align          : left;
+  line-height         : 68.0px;
+}
+.bp1-webpageprogrammes .bp1-headercopy2 .bp1-ayeduheaderlogocopy .bp1-est2019 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 36px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.81;
+  font-family         : "IBMPlexSans", Helvetica, Arial, serif;
+  font-size           : 23.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.bp1-webpageprogrammes .bp1-headercopy2 .bp1-ayeduheaderlogocopy .bp1-est2019 .bp1-span1 {
+  line-height         : 30.0px;
+}
+.bp1-webpageprogrammes .bp1-headercopy2 .bp1-ayeduheaderlogocopy .bp1-est2019 .bp1-span2 {
+  font-size           : 30.0px;
+  line-height         : 39.0px;
+}
+.bp1-webpageprogrammes .bp1-headercopy2 .bp1-ayeduheaderlogocopy .bp1-est2019 .bp1-span3 {
+  font-size           : 16.0px;
+  line-height         : 20.0px;
+}
+.bp1-webpageprogrammes .bp1-headercopy2 .bp1-aboutcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp1-webpageprogrammes .bp1-headercopy2 .bp1-studiescopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 127px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp1-webpageprogrammes .bp1-headercopy2 .bp1-internationalcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 268px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp1-webpageprogrammes .bp1-headercopy2 .bp1-eventscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1178px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp1-webpageprogrammes .bp1-headercopy2 .bp1-programmescopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 805px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp1-webpageprogrammes .bp1-headercopy2 .bp1-innovationcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1003px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp1-webpageprogrammes .bp1-rectanglecopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 150px;
+  height              : 347px;
+  width               : 347px;
+  position            : absolute;
+  margin              : 0;
+  left                : 54px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.85;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-webpageprogrammes .bp1-rectanglecopy4:hover {
+  box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.bp1-webpageprogrammes .bp1-rectanglecopy8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 652px;
+  height              : 347px;
+  width               : 347px;
+  position            : absolute;
+  margin              : 0;
+  left                : 54px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.85;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-webpageprogrammes .bp1-rectanglecopy8:hover {
+  box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.bp1-webpageprogrammes .bp1-rectanglecopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 150px;
+  height              : 347px;
+  width               : 347px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1039px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.85;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-webpageprogrammes .bp1-rectanglecopy5:hover {
+  box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.bp1-webpageprogrammes .bp1-rectanglecopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 150px;
+  height              : 347px;
+  width               : 347px;
+  position            : absolute;
+  margin              : 0;
+  left                : 556px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.85;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-webpageprogrammes .bp1-rectanglecopy6:hover {
+  box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.bp1-webpageprogrammes .bp1-rectanglecopy9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 652px;
+  height              : 347px;
+  width               : 347px;
+  position            : absolute;
+  margin              : 0;
+  left                : 556px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.85;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-webpageprogrammes .bp1-rectanglecopy9:hover {
+  box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.bp1-webpageprogrammes .bp1-rectanglecopy10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 652px;
+  height              : 347px;
+  width               : 347px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1039px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.85;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-webpageprogrammes .bp1-rectanglecopy10:hover {
+  box-shadow          : 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.bp1-webpageprogrammes .bp1-a103461 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 210px;
+  height              : 209px;
+  width               : 209px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpageprogrammes .bp1-a33736 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 210px;
+  height              : 209px;
+  width               : 209px;
+  position            : absolute;
+  margin              : 0;
+  left                : 616px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpageprogrammes .bp1-a88328 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 210px;
+  height              : 209px;
+  width               : 209px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1108px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpageprogrammes .bp1-a103512 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 712px;
+  height              : 209px;
+  width               : 209px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1108px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpageprogrammes .bp1-a69045 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 712px;
+  height              : 209px;
+  width               : 209px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpageprogrammes .bp1-a59174 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 712px;
+  height              : 209px;
+  width               : 209px;
+  position            : absolute;
+  margin              : 0;
+  left                : 616px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpageprogrammes .bp1-socialiconscopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1063px;
+  height              : 31px;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1184px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpageprogrammes .bp1-socialiconscopy3 .bp1-facebook {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpageprogrammes .bp1-socialiconscopy3 .bp1-youtube {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 87px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpageprogrammes .bp1-socialiconscopy3 .bp1-instagram {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 177px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpageprogrammes .bp1-socialiconscopy3 .bp1-twitter {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 43px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpageprogrammes .bp1-socialiconscopy3 .bp1-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 134px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpageprogrammes .bp1-a2512019armangokdemircopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1065px;
+  height              : auto;
+  width               : 400px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.bp1-webpageprogrammes .bp1-a2512019armangokdemircopy3 .bp1-span1 {
+  
+}
+.bp1-webpageprogrammes .bp1-a2512019armangokdemircopy3 .bp1-span2 {
+  font-family         : "Karla", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@media screen and (max-width: 1439px) {
+  .bp2-mobilepageprogrammes {
+    display             : block;
+  }
+  .bp1-webpageprogrammes {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1440px) {
+  .bp2-mobilepageprogrammes {
+    display             : none;
+  }
+  .bp1-webpageprogrammes {
+    display             : block;
+  }
+}

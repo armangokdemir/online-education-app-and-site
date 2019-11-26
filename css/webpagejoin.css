@@ -1,0 +1,1833 @@
+@import url('https://fonts.googleapis.com/css?family=Karla:400|Acme:400|Gloria+Hallelujah:400');
+
+@font-face {
+                          font-family: "IBMPlexSans";
+                          src: url('../fonts/IBMPlexSans-Regular.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "OpenSans-Regular";
+                          src: url('../fonts/OpenSans-Regular.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "OpenSans-SemiBold";
+                          src: url('../fonts/OpenSans-SemiBold.ttf') format("truetype");
+                        }
+                        
+.bp1-webpagejoin {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1108px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+textarea:focus, input:focus {
+  outline             : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-webpagejoin .bp1-worldz {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 1565px;
+  width               : 1487px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.1;
+}
+.bp1-webpagejoin .bp1-worldz .bp1-a44536 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1264px;
+  height              : 285px;
+  width               : 285px;
+  position            : absolute;
+  margin              : 0;
+  left                : 216px;
+  -ms-transform       : rotate(93deg); /* IE 9 */
+  -webkit-transform   : rotate(93deg); /* Chrome, Safari, Opera */
+  transform           : rotate(93deg);
+}
+.bp1-webpagejoin .bp1-worldz .bp1-a44536copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1130px;
+  height              : 190px;
+  width               : 190px;
+  position            : absolute;
+  margin              : 0;
+  left                : 565px;
+  -ms-transform       : rotate(-95deg); /* IE 9 */
+  -webkit-transform   : rotate(-95deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-95deg);
+}
+.bp1-webpagejoin .bp1-worldz .bp1-a44536copy7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 955px;
+  height              : 256px;
+  width               : 256px;
+  position            : absolute;
+  margin              : 0;
+  left                : 800px;
+  -ms-transform       : rotate(9deg); /* IE 9 */
+  -webkit-transform   : rotate(9deg); /* Chrome, Safari, Opera */
+  transform           : rotate(9deg);
+}
+.bp1-webpagejoin .bp1-worldz .bp1-a44536copy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 773px;
+  height              : 438px;
+  width               : 438px;
+  position            : absolute;
+  margin              : 0;
+  left                : 62px;
+  -ms-transform       : rotate(-20deg); /* IE 9 */
+  -webkit-transform   : rotate(-20deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-20deg);
+}
+.bp1-webpagejoin .bp1-worldz .bp1-a44536copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1407px;
+  height              : 142px;
+  width               : 142px;
+  position            : absolute;
+  margin              : 0;
+  left                : 565px;
+  -ms-transform       : rotate(-15deg); /* IE 9 */
+  -webkit-transform   : rotate(-15deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-15deg);
+}
+.bp1-webpagejoin .bp1-worldz .bp1-a44536copy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1265px;
+  height              : 285px;
+  width               : 285px;
+  position            : absolute;
+  margin              : 0;
+  left                : 771px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-worldz .bp1-a44536copy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 992px;
+  height              : 81px;
+  width               : 81px;
+  position            : absolute;
+  margin              : 0;
+  left                : 565px;
+  -ms-transform       : rotate(-3deg); /* IE 9 */
+  -webkit-transform   : rotate(-3deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-3deg);
+}
+.bp1-webpagejoin .bp1-worldz .bp1-a44536copy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 152px;
+  height              : 771px;
+  width               : 756px;
+  position            : absolute;
+  margin              : 0;
+  left                : 573px;
+  -ms-transform       : rotate(39deg); /* IE 9 */
+  -webkit-transform   : rotate(39deg); /* Chrome, Safari, Opera */
+  transform           : rotate(39deg);
+}
+.bp1-webpagejoin .bp1-joinus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 961px;
+  height              : 80px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : 575px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-joinus .bp1-rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 80px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.58;
+}
+.bp1-webpagejoin .bp1-joinus .bp1-register {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 66px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-SemiBold", Helvetica, Arial, serif;
+  font-size           : 35.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 47.0px;
+}
+.bp1-webpagejoin .bp1-bg {
+  background-color    : rgba(193, 187, 182, 1.0);
+  top                 : 87px;
+  height              : 524px;
+  width               : 480px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-bg .bp1-mask {
+  background-color    : rgba(193, 187, 182, 1.0);
+  top                 : 0px;
+  height              : 524px;
+  width               : 480px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-bg .bp1-thoughtcatalog505eectw54kunsplash {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -28px;
+  height              : 611px;
+  width               : 917px;
+  position            : absolute;
+  margin              : 0;
+  left                : -254px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.45;
+}
+.bp1-webpagejoin .bp1-bgcopy {
+  background-color    : rgba(193, 187, 182, 1.0);
+  top                 : 87px;
+  height              : 524px;
+  width               : 480px;
+  position            : absolute;
+  margin              : 0;
+  left                : 480px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-bgcopy .bp1-mask {
+  background-color    : rgba(193, 187, 182, 1.0);
+  top                 : 0px;
+  height              : 524px;
+  width               : 480px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-bgcopy .bp1-nickmorrisonfhnnjk1yj7yunsplash {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -46px;
+  height              : 615px;
+  width               : 820px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.45;
+}
+.bp1-webpagejoin .bp1-bgcopy2 {
+  background-color    : rgba(193, 187, 182, 1.0);
+  top                 : 87px;
+  height              : 524px;
+  width               : 480px;
+  position            : absolute;
+  margin              : 0;
+  left                : 960px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-bgcopy2 .bp1-mask {
+  background-color    : rgba(193, 187, 182, 1.0);
+  top                 : 0px;
+  height              : 524px;
+  width               : 480px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-bgcopy2 .bp1-javierquesadaqyfwgvnjqsaunsplash {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 524px;
+  width               : 786px;
+  position            : absolute;
+  margin              : 0;
+  left                : -134px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.45;
+}
+.bp1-webpagejoin .bp1-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -6px;
+  height              : 111px;
+  width               : 1464px;
+  position            : absolute;
+  margin              : 0;
+  left                : -12px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-header {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 75px;
+  width               : 1246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 97px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-header .bp1-ayeduheaderlogocopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 75px;
+  width               : 104px;
+  position            : absolute;
+  margin              : 0;
+  left                : 551px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-header .bp1-ayeduheaderlogocopy .bp1-ayedu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Gloria Hallelujah", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(52, 49, 49, 1.0);
+  text-align          : left;
+  line-height         : 68.0px;
+}
+.bp1-webpagejoin .bp1-header .bp1-ayeduheaderlogocopy .bp1-est2019 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 36px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.81;
+  font-family         : "IBMPlexSans", Helvetica, Arial, serif;
+  font-size           : 23.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.bp1-webpagejoin .bp1-header .bp1-ayeduheaderlogocopy .bp1-est2019 .bp1-span1 {
+  line-height         : 30.0px;
+}
+.bp1-webpagejoin .bp1-header .bp1-ayeduheaderlogocopy .bp1-est2019 .bp1-span2 {
+  font-size           : 30.0px;
+  line-height         : 39.0px;
+}
+.bp1-webpagejoin .bp1-header .bp1-ayeduheaderlogocopy .bp1-est2019 .bp1-span3 {
+  font-size           : 16.0px;
+  line-height         : 20.0px;
+}
+.bp1-webpagejoin .bp1-header .bp1-aboutcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp1-webpagejoin .bp1-header .bp1-studiescopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 127px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp1-webpagejoin .bp1-header .bp1-internationalcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 268px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp1-webpagejoin .bp1-header .bp1-eventscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1178px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp1-webpagejoin .bp1-header .bp1-programmescopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 805px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp1-webpagejoin .bp1-header .bp1-innovationcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1003px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.bp1-webpagejoin .bp1-header3copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 162px;
+  height              : 373px;
+  width               : 1338px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-header3copy .bp1-rectangle1 {
+  background-color    : rgba(184, 161, 138, 1.0);
+  top                 : 0px;
+  height              : 373px;
+  width               : 1338px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.85;
+}
+.bp1-webpagejoin .bp1-header3copy .bp1-duiseumattisvelit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 135px;
+  height              : auto;
+  width               : 1282px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 43.0px;
+}
+.bp1-webpagejoin .bp1-a31636 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 198px;
+  height              : 78px;
+  width               : 78px;
+  position            : absolute;
+  margin              : 0;
+  left                : 681px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-a94876 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 198px;
+  height              : 78px;
+  width               : 78px;
+  position            : absolute;
+  margin              : 0;
+  left                : 811px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-a109243 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 198px;
+  height              : 78px;
+  width               : 78px;
+  position            : absolute;
+  margin              : 0;
+  left                : 551px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-loginform {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 643px;
+  height              : 291px;
+  width               : 1338px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-loginform .bp1-rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 50px;
+  height              : 41px;
+  box-sizing          : border-box;
+  width               : 480px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(172, 153, 133, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-loginform .bp1-textnamehere {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : 30px;
+  width               : 121px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Karla", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(140, 137, 137, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.bp1-webpagejoin .bp1-loginform .bp1-textnamehere::placeholder {
+  color               : rgba(140, 137, 137, 0.6);
+}
+.bp1-webpagejoin .bp1-loginform .bp1-textemailhere {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 154px;
+  height              : 30px;
+  width               : 128px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Karla", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(140, 137, 137, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.bp1-webpagejoin .bp1-loginform .bp1-textemailhere::placeholder {
+  color               : rgba(140, 137, 137, 0.6);
+}
+.bp1-webpagejoin .bp1-loginform .bp1-textnumberhere {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 255px;
+  height              : 30px;
+  width               : 146px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Karla", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(140, 137, 137, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.bp1-webpagejoin .bp1-loginform .bp1-textnumberhere::placeholder {
+  color               : rgba(140, 137, 137, 0.6);
+}
+.bp1-webpagejoin .bp1-loginform .bp1-textstatus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : 30px;
+  width               : 76px;
+  position            : absolute;
+  margin              : 0;
+  left                : 868px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Karla", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(140, 137, 137, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.bp1-webpagejoin .bp1-loginform .bp1-textstatus::placeholder {
+  color               : rgba(140, 137, 137, 0.6);
+}
+.bp1-webpagejoin .bp1-loginform .bp1-textselect {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 155px;
+  height              : 30px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 868px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Karla", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(140, 137, 137, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.bp1-webpagejoin .bp1-loginform .bp1-textselect::placeholder {
+  color               : rgba(140, 137, 137, 0.6);
+}
+.bp1-webpagejoin .bp1-loginform .bp1-textyn {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 255px;
+  height              : 30px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 868px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Karla", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(140, 137, 137, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.bp1-webpagejoin .bp1-loginform .bp1-textyn::placeholder {
+  color               : rgba(140, 137, 137, 0.6);
+}
+.bp1-webpagejoin .bp1-loginform .bp1-educatitonstatus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 858px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 41.0px;
+}
+.bp1-webpagejoin .bp1-loginform .bp1-rectanglecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 50px;
+  height              : 41px;
+  box-sizing          : border-box;
+  width               : 480px;
+  position            : absolute;
+  margin              : 0;
+  left                : 858px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(172, 153, 133, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-loginform .bp1-programme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 100px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 858px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 41.0px;
+}
+.bp1-webpagejoin .bp1-loginform .bp1-rectanglecopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 150px;
+  height              : 41px;
+  box-sizing          : border-box;
+  width               : 480px;
+  position            : absolute;
+  margin              : 0;
+  left                : 858px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(172, 153, 133, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-loginform .bp1-citizenyn {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 200px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 858px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 41.0px;
+}
+.bp1-webpagejoin .bp1-loginform .bp1-rectanglecopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 250px;
+  height              : 41px;
+  box-sizing          : border-box;
+  width               : 480px;
+  position            : absolute;
+  margin              : 0;
+  left                : 858px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(172, 153, 133, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-loginform .bp1-email {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 100px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 41.0px;
+}
+.bp1-webpagejoin .bp1-loginform .bp1-rectanglecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 150px;
+  height              : 41px;
+  box-sizing          : border-box;
+  width               : 480px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(172, 153, 133, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-loginform .bp1-telephonenumber {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 200px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 41.0px;
+}
+.bp1-webpagejoin .bp1-loginform .bp1-rectanglecopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 250px;
+  height              : 41px;
+  box-sizing          : border-box;
+  width               : 480px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(172, 153, 133, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-loginform .bp1-fullname {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-Regular", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 41.0px;
+}
+.bp1-webpagejoin .bp1-socialiconscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1063px;
+  height              : 31px;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1184px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-socialiconscopy .bp1-facebook {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-socialiconscopy .bp1-youtube {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 87px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-socialiconscopy .bp1-instagram {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 177px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-socialiconscopy .bp1-twitter {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 43px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-socialiconscopy .bp1-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 28px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 134px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp1-webpagejoin .bp1-a2512019armangokdemircopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1065px;
+  height              : auto;
+  width               : 400px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.bp1-webpagejoin .bp1-a2512019armangokdemircopy .bp1-span1 {
+  
+}
+.bp1-webpagejoin .bp1-a2512019armangokdemircopy .bp1-span2 {
+  font-family         : "Karla", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp2-mobilepagejoin {
+  width               : 100%;
+  min-width           : 320px;
+  height              : 100vh;
+  min-height          : 1049px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-mobilepagejoin .bp2-nathandumlaoxphmmvks8lmunsplash {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 1049px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepagejoin .bp2-nathandumlaoxphmmvks8lmunsplash .bp2-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 1049px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepagejoin .bp2-nathandumlaoxphmmvks8lmunsplash .bp2-nathandumlaoxphmmvks8lmunsplash1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -30px;
+  height              : 1079px;
+  width               : 719px;
+  position            : absolute;
+  margin              : 0;
+  left                : -258px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepagejoin .bp2-ayeduheaderlogo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 75px;
+  width               : 104px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepagejoin .bp2-ayeduheaderlogo .bp2-ayedu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Gloria Hallelujah", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 34.0px;
+  color               : rgba(52, 49, 49, 1.0);
+  text-align          : left;
+  line-height         : 68.0px;
+}
+.bp2-mobilepagejoin .bp2-ayeduheaderlogo .bp2-est2019 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 36px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.81;
+  font-family         : "IBMPlexSans", Helvetica, Arial, serif;
+  font-size           : 23.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.bp2-mobilepagejoin .bp2-ayeduheaderlogo .bp2-est2019 .bp2-span1 {
+  line-height         : 30.0px;
+}
+.bp2-mobilepagejoin .bp2-ayeduheaderlogo .bp2-est2019 .bp2-span2 {
+  font-size           : 30.0px;
+  line-height         : 39.0px;
+}
+.bp2-mobilepagejoin .bp2-ayeduheaderlogo .bp2-est2019 .bp2-span3 {
+  font-size           : 16.0px;
+  line-height         : 20.0px;
+}
+.bp2-mobilepagejoin .bp2-a56763 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 35px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 265px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepagejoin .bp2-rectanglecopy6 {
+  background-color    : rgba(184, 161, 138, 1.0);
+  top                 : 105px;
+  height              : 468px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.85;
+}
+.bp2-mobilepagejoin .bp2-a31636copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 123px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 137px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepagejoin .bp2-a94876copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 123px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 214px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepagejoin .bp2-a109243copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 123px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepagejoin .bp2-duiseumattisvelit {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 185px;
+  height              : auto;
+  width               : 263px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-SemiBold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.bp2-mobilepagejoin .bp2-rectangle {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 582px;
+  height              : 468px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.27;
+}
+.bp2-mobilepagejoin .bp2-fullname {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 591px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-SemiBold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.bp2-mobilepagejoin .bp2-rectangle1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 618px;
+  height              : 29px;
+  width               : 224px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepagejoin .bp2-text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 616px;
+  height              : 30px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(140, 137, 137, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.bp2-mobilepagejoin .bp2-text::placeholder {
+  color               : rgba(140, 137, 137, 0.6);
+}
+.bp2-mobilepagejoin .bp2-email {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 647px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-SemiBold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.bp2-mobilepagejoin .bp2-rectanglecopy {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 674px;
+  height              : 29px;
+  width               : 224px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepagejoin .bp2-telephonenumber {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 703px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-SemiBold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.bp2-mobilepagejoin .bp2-rectanglecopy2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 730px;
+  height              : 29px;
+  width               : 224px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepagejoin .bp2-educationstatus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 759px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-SemiBold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.bp2-mobilepagejoin .bp2-rectanglecopy3 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 786px;
+  height              : 29px;
+  width               : 224px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepagejoin .bp2-programme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 815px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-SemiBold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.bp2-mobilepagejoin .bp2-rectanglecopy4 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 842px;
+  height              : 29px;
+  width               : 224px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepagejoin .bp2-citizenyn {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 871px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-SemiBold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.bp2-mobilepagejoin .bp2-rectanglecopy5 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 898px;
+  height              : 29px;
+  width               : 224px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepagejoin .bp2-register {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 953px;
+  height              : 55px;
+  width               : 163px;
+  position            : absolute;
+  margin              : 0;
+  left                : 79px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepagejoin .bp2-register .bp2-rectanglecopy7 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 55px;
+  width               : 163px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepagejoin .bp2-register .bp2-register1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "OpenSans-SemiBold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(61, 61, 61, 1.0);
+  text-align          : left;
+  line-height         : 41.0px;
+}
+.bp2-mobilepagejoin .bp2-socialiconscopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1016px;
+  height              : 22px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 88px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepagejoin .bp2-socialiconscopy3 .bp2-facebook {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepagejoin .bp2-socialiconscopy3 .bp2-youtube {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepagejoin .bp2-socialiconscopy3 .bp2-instagram {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepagejoin .bp2-socialiconscopy3 .bp2-twitter {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepagejoin .bp2-socialiconscopy3 .bp2-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 95px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.bp2-mobilepagejoin .bp2-text1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 672px;
+  height              : 30px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(140, 137, 137, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.bp2-mobilepagejoin .bp2-text1::placeholder {
+  color               : rgba(140, 137, 137, 0.6);
+}
+.bp2-mobilepagejoin .bp2-text2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 728px;
+  height              : 30px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(140, 137, 137, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.bp2-mobilepagejoin .bp2-text2::placeholder {
+  color               : rgba(140, 137, 137, 0.6);
+}
+.bp2-mobilepagejoin .bp2-text3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 785px;
+  height              : 30px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(140, 137, 137, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.bp2-mobilepagejoin .bp2-text3::placeholder {
+  color               : rgba(140, 137, 137, 0.6);
+}
+.bp2-mobilepagejoin .bp2-text4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 840px;
+  height              : 30px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(140, 137, 137, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.bp2-mobilepagejoin .bp2-text4::placeholder {
+  color               : rgba(140, 137, 137, 0.6);
+}
+.bp2-mobilepagejoin .bp2-text5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 896px;
+  height              : 30px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "LucidaGrande", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(140, 137, 137, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+  border              : 0;
+  resize              : none;
+  padding             : 0;
+}
+.bp2-mobilepagejoin .bp2-text5::placeholder {
+  color               : rgba(140, 137, 137, 0.6);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@media screen and (max-width: 1439px) {
+  .bp2-mobilepagejoin {
+    display             : block;
+  }
+  .bp1-webpagejoin {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1440px) {
+  .bp2-mobilepagejoin {
+    display             : none;
+  }
+  .bp1-webpagejoin {
+    display             : block;
+  }
+}
